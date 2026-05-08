@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="XemTV", (VTV1) This m3u file is come from giangnam0201. Please do not reup. - VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv2.png" group-title="XemTV",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv3.png" group-title="XemTV",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv4.png" group-title="XemTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5.png" group-title="XemTV",VTV5
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="XemTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynguyen.png" group-title="XemTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcantho.png" group-title="XemTV",VTV Cần Thơ
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv7.png" group-title="XemTV",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv8.png" group-title="XemTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv9.png" group-title="XemTV",VTV9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png" group-title="XemTV",Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="XemTV",ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="XemTV",QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="XemTV",HTV1
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="XemTV",HTV2
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="XemTV",HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="XemTV",HTV4
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="XemTV",HTV9
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/haiphong.png" group-title="XemTV",THP
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thpplus.png" group-title="XemTV",THP+
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/giadinh.png" group-title="XemTV",HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/phim.png" group-title="XemTV",HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/phunu.png" group-title="XemTV",HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htvc-plus.png" group-title="XemTV",HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thuanviet.png" group-title="XemTV",HTV Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viegiaitri.png" group-title="XemTV",VTVCab1 Vie Giải trí
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/phimviet.png" group-title="XemTV",VTVCab2 Phim Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcab5.png" group-title="XemTV",VTVCab5 Echannel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcab8.png" group-title="XemTV",VTVCab8 BiBi TV
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcab9.png" group-title="XemTV",VTVCab9
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/styletv.png" group-title="XemTV",STYLE TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtvcab15.png" group-title="XemTV",VTVCab15
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/yeah1hd.png" group-title="XemTV",Yeah1TV VTVCab17
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onfootball.png" group-title="XemTV",Bóng Đá TV
+https://pepsi3.abntv.live/hls/psp3.m3u8
