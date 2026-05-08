@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tv360.png" group-title="ThaikayTV",360
+https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htvthethao.png" group-title="ThaikayTV",HTV thể thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/antv.png" group-title="ThaikayTV",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv1.png" group-title="ThaikayTV", VTV1
@@ -23,6 +27,10 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv9.png" group-title="ThaikayTV",VTV9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/haiphong.png" group-title="ThaikayTV",THP
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thpplus.png" group-title="ThaikayTV",THP+
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vietnamtoday.png" group-title="ThaikayTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/qpvn.png" group-title="ThaikayTV",QPVN
@@ -37,64 +45,17 @@ https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="ThaikayTV",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", Canal+ Foot
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 5
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 6
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 7
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 8
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 9
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 10
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720", CANAL+ LIVE 11
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-12.png", CANAL+ LIVE 12
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-13.png", CANAL+ LIVE 13
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-14.png", CANAL+ LIVE 14
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-15.png", CANAL+ LIVE 15
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-16.png", CANAL+ LIVE 16
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-17.png", CANAL+ LIVE 17
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
-#EXTINF:-1 group-title="?| Th? thao qu?c t?" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/canalplus-live-18.png", CANAL+ LIVE 18
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hanoi1.png" group-title="ThaikayTV",Hà N?i 1
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hanoi1.png" group-title="ThaikayTV",Hà Nội1
 https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hanoi2.png" group-title="ThaikayTV",Hà N?i 2
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hanoi2.png" group-title="ThaikayTV",Hà Nội2
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/haiphong.png" group-title="ThaikayTV",THP
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thpplus.png" group-title="ThaikayTV",THP+
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/canhac.png" group-title="ThaikayTV",HTVC Ca Nh?c
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/dulich.png" group-title="ThaikayTV",HTVC Du L?ch
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/giadinh.png" group-title="ThaikayTV",HTVC Gia Ðình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/phim.png" group-title="ThaikayTV",HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/phunu.png" group-title="ThaikayTV",HTVC Ph? N?
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htvc-plus.png" group-title="ThaikayTV",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thuanviet.png" group-title="ThaikayTV",HTV Thu?n Vi?t
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/thuanviet.png" group-title="ThaikayTV",HTV Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/viegiaitri.png" group-title="ThaikayTV",VTVCab1
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -118,10 +79,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/lifetv.png" group-title="ThaikayTV",VTVCab22
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vie-network.png" group-title="ThaikayTV",Vie NetWork
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/btv9.png" group-title="ThaikayTV",BTV9
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/boxhits.png" group-title="ThaikayTV",Box Hits
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/1_cc823220.jpg", SCTV1
@@ -178,24 +135,3 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/82_51400b18.jpg", SCTV Phim T?ng H?p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbo.png" group-title="ThaikayTV",HBO
-https://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/hbohits.png" group-title="ThaikayTV",HBO HITS
-https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cinemax.png" group-title="ThaikayTV",Cinemax
-https://fl1.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onfootball.png" group-title="ThaikayTV",Bóng Ðá TV
-https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onsports.png" group-title="ThaikayTV",Th? Thao TV
-https://gckc0525.edgemaxcdn.org/live/chuoilua.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onsports-plus.png" group-title="ThaikayTV",OnSports +
-https://gckc0525.edgemaxcdn.org/live/chuoihot.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/onplus.png" group-title="ThaikayTV",On Plus
-https://event.fptplay53.net/fnxch1/thethao135_mx.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/fptplay.png" group-title="ThaikayTV",FPT Play
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/tv360.png" group-title="ThaikayTV",Mua Ð?
-https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htvthethao.png" group-title="ThaikayTV",HTV Th? Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-
